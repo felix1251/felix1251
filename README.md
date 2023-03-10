@@ -4,3 +4,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=felix1251&count_private=true&layout=compact&langs_count=40&hide=html)
 
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felix1251&theme=github" />
+</a>
+
