@@ -4,7 +4,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=felix1251&theme=github&count_private=true&include_all_commits=true" />
     </a>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felix1251&theme=github&" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felix1251&theme=github" />
     </a>
 </div>
 
